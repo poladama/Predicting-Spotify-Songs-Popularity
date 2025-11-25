@@ -2,7 +2,7 @@
 
 Author: Polina Adamovich
 
-This project was completed as part of the Data-Centric Computing class in my Data Science Master's program at the University of Pittsburgh.
+This project was completed as part of the _Introduction to Data-Centric Computing_ class in my Data Science Master's program at the University of Pittsburgh.
 
 ## Data source: 
 [Tidy Tuesday project on Github](https://github.com/rfordatascience/tidytuesday/tree/main/data/2020/2020-01-21)
